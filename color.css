@@ -1,0 +1,15 @@
+button {
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    margin-top: 260px;
+    margin-left: 610px;
+    background-color: transparent;
+    font-family: arial;
+    font-size: 24px;
+    transition: 1s;
+    word-spacing: 5px;
+}
+button:hover {
+    background-color: #ccccb37e;
+}
